@@ -28,4 +28,8 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/samirkode/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
