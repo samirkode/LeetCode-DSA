@@ -21,6 +21,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/samirkode/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/samirkode/LeetCode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/samirkode/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/samirkode/LeetCode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
