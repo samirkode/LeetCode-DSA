@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/samirkode/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/samirkode/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/samirkode/LeetCode-DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
@@ -19,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/samirkode/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/samirkode/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
+| [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/samirkode/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
