@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0605-can-place-flowers](https://github.com/samirkode/LeetCode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/samirkode/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/samirkode/LeetCode-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/samirkode/LeetCode-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -64,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/samirkode/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0605-can-place-flowers](https://github.com/samirkode/LeetCode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
