@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/samirkode/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0053-maximum-subarray](https://github.com/samirkode/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/samirkode/LeetCode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/samirkode/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -71,4 +72,12 @@
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/samirkode/LeetCode-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/samirkode/LeetCode-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/samirkode/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/samirkode/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
