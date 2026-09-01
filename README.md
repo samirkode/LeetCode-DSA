@@ -17,6 +17,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/samirkode/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/samirkode/LeetCode-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/samirkode/LeetCode-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samirkode/LeetCode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samirkode/LeetCode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/samirkode/LeetCode-DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
@@ -63,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/samirkode/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samirkode/LeetCode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/samirkode/LeetCode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
