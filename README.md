@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/samirkode/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/samirkode/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/samirkode/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/samirkode/LeetCode-DSA/tree/main/0605-can-place-flowers/) | Easy |
@@ -45,6 +46,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/samirkode/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
