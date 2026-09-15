@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/samirkode/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/samirkode/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0605-can-place-flowers](https://github.com/samirkode/LeetCode-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/samirkode/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/samirkode/LeetCode-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/samirkode/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
