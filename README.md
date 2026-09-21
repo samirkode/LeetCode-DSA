@@ -20,6 +20,7 @@
 | [0905-sort-array-by-parity](https://github.com/samirkode/LeetCode-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/samirkode/LeetCode-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/samirkode/LeetCode-DSA/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/samirkode/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/samirkode/LeetCode-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/samirkode/LeetCode-DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
@@ -88,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/samirkode/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/samirkode/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
