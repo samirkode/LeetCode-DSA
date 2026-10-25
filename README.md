@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/samirkode/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/samirkode/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/samirkode/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/samirkode/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0242-valid-anagram](https://github.com/samirkode/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/samirkode/LeetCode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/samirkode/LeetCode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Trie
@@ -83,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/samirkode/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/samirkode/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/samirkode/LeetCode-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/samirkode/LeetCode-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Divide and Conquer
