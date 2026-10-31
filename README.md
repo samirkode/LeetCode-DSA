@@ -30,6 +30,7 @@
 | [0011-container-with-most-water](https://github.com/samirkode/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/samirkode/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
+| [0141-linked-list-cycle](https://github.com/samirkode/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/samirkode/LeetCode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/samirkode/LeetCode-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/samirkode/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/samirkode/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/samirkode/LeetCode-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/samirkode/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samirkode/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -100,4 +102,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/samirkode/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/samirkode/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/samirkode/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
